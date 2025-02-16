@@ -31,6 +31,10 @@
 - [ ] directory
 - [ ] destination url
 
+## remove logseq artifacts
+- [ ] remove "- " or "  " at the start of a line
+- [ ] remove hyperlinks
+
 # Future releases
 - [ ] Add support for multiple destinations
 - [ ] option for multiple destinations
