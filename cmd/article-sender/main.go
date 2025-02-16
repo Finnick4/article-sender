@@ -31,7 +31,6 @@ func main() {
 
 	fmt.Println("The directory should be:", directory)
 
-	// tests:
-
-	sendWebhook(directory)
+	printDirContents(directory)
+	// sendWebhook(directory)
 }
