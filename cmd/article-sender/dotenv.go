@@ -23,5 +23,5 @@ func makeEnv() {
 	// Getting and using a value from .env
 	env.dir = os.Getenv("DIRECTORY")
 
-	fmt.Printf("These are the enviroment variables:\ndir | %s\n", env.dir)
+	// fmt.Printf("These are the enviroment variables:\ndir | %s\n", env.dir)
 }
